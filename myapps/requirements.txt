@@ -1,3 +1,0 @@
-Django==3.1.0
-django-phonenumber-field[phonenumberslite]
-pillow
